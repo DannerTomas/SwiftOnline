@@ -17,6 +17,6 @@
         <li>Can speak Chinese as much as possible (at least try to comprehend using translation) due to the server location.</li>
     </ol>
     <p>If you reached them, just copy <code>SwiftOL.top</code> and then paste to the text box in the Muitiplayer.</p>
-    <code>Note: Due to the capacity of the server, we are allowed less than 10 people join at the same time. Sorry for the inconvenience.</code>
+    <code>Note: Due to the capacity of the server, we are allowed less than 25 people join at the same time. Sorry for the inconvenience.</code>
 </body>
 </html>
